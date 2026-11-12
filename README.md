@@ -2,79 +2,208 @@
 
 ## Project Overview
 
-This university group project analyses IT project management methodologies, with a focus on project delivery approaches, risk management, and leadership.
+This repository presents academic IT project work completed as part of university group projects.
 
-The project examines how different project management approaches can influence the planning, organisation, execution, and successful delivery of IT projects.
+The work explored two related project scenarios:
 
-## Academic Group Project
+1. **Project 1 — Campus Connect / Ask Winnie:** A proposed IT project designed as an additional feature within the university's Moodle environment.
+2. **Project 2 — IT Project Methodology Analysis:** An analysis of an existing IT project and the selection of an appropriate project management methodology.
 
-This project was completed as part of a university group assignment.
+The projects focused on project management methodologies, methodology selection, risk management, leadership, stakeholder involvement, and project delivery.
 
-The analysis and deliverables were developed collaboratively by the group. The project is presented on GitHub as an academic portfolio example to demonstrate my exposure to IT project management concepts, teamwork, risk management, and leadership.
+---
 
-## Project Objectives
+## Project 1 — Campus Connect / Ask Winnie
 
-The project aimed to:
+For the first project, our group developed a proposed IT solution called **Campus Connect**, designed as an additional feature within the university's Moodle environment.
 
-* Analyse IT project management methodologies
-* Compare different approaches to project delivery
-* Examine the role of risk management in IT projects
-* Explore leadership and team management considerations
-* Identify factors that can contribute to successful project outcomes
-* Apply project management concepts to an academic group project
+The proposed solution included:
 
-## Key Areas Analysed
+* Smart Study Schedule
+* Smart Notifications
+* Wellbeing and Support
+* Smart FAQs
+* Administrative functionality
+* An interactive chatbot called **Ask Winnie**
 
-### Project Management Methodologies
+The project was developed around the idea of making important information and student support easier to access in one place.
 
-The project examines different approaches to managing IT projects and considers how methodology selection can affect project planning, development, collaboration, and delivery.
+### Project Objectives
+
+The proposed project aimed to:
+
+* Help new students settle into university
+* Help students organise their study time
+* Help students track assignment deadlines
+* Provide useful notifications
+* Make wellbeing information and support easier to access
+* Help students find appropriate support and guidance
+* Provide a central place for students to access information and assistance
+
+---
+
+## Project 2 — IT Project Methodology Analysis
+
+The second project involved analysing an existing IT project and recommending an appropriate project management methodology.
+
+Our group examined the **Spiral Methodology** and considered why it was appropriate for the project.
+
+The analysis focused on:
+
+* Risk management
+* Changing requirements
+* Continuous user involvement and feedback
+* Iterative testing
+* Software quality
+* Technical and stakeholder collaboration
+* Privacy and ethical risks
+
+The Spiral approach was considered suitable because it allows a project to progress through repeated cycles of planning, risk assessment, development, and evaluation.
+
+---
+
+## Methodology Analysis
+
+### Spiral Methodology
+
+The Spiral Methodology was analysed as a risk-focused and iterative approach.
 
 ### Risk Management
 
-Risk management was considered as an important part of IT project management, including the identification and consideration of potential risks that could affect project outcomes.
+Potential risks can be identified and addressed early before significant time and resources are committed.
 
-### Leadership
+Examples considered included:
 
-The project considers the role of leadership in guiding project teams, supporting collaboration, managing responsibilities, and contributing to successful project delivery.
+* Inaccurate data collection
+* Software defects
+* Privacy concerns
+* Compatibility issues
+* Security and data-related risks
 
-### Team Collaboration
+### Changing Requirements
 
-As a group project, collaboration was an important part of completing the analysis and coordinating the work of different team members.
+The approach allows requirements to be refined as the project's needs become clearer.
+
+### Continuous User Feedback
+
+Early versions and prototypes can be tested and reviewed so that user and stakeholder feedback can inform later development cycles.
+
+### Iterative Testing
+
+Problems identified during one development cycle can be corrected and tested again before progressing to the next cycle.
+
+Testing considerations included:
+
+* Functional testing
+* Usability testing
+* Compatibility testing
+* Data validation
+* Security and privacy testing
+
+### Stakeholder Collaboration
+
+The project considered collaboration between different professionals and stakeholders, including software developers, researchers, project managers, and other stakeholders.
+
+This collaboration supports discussion of project progress, risks, priorities, and technical considerations.
+
+### Privacy and Ethics
+
+Privacy, security, data accuracy, and ethical considerations were identified as important risks that should be considered throughout the project.
+
+Possible controls included:
+
+* Access controls
+* Encryption
+* Data minimisation
+* Secure data storage
+
+---
+
+## Leadership Analysis
+
+The second project also examined leadership requirements for working effectively within the project environment.
+
+### Leadership Model
+
+**Traits-Based Leadership Model**
+
+### Leadership Style
+
+**Transformational Leadership**
+
+Important leadership qualities identified in the project included:
+
+* Risk management and analytical thinking
+* Communication and stakeholder engagement
+* Adaptability and flexibility
+* Decision-making and problem-solving
+* Collaboration and team leadership
+* Planning and resource management
+* Commitment to quality, ethics, and accountability
+
+These qualities support effective communication, decision-making, collaboration, and project delivery.
+
+---
 
 ## My Contribution
 
-**My individual contribution to the group project:**
+This work was completed as part of university group projects, and the projects were completed collaboratively.
 
-> [Add the specific sections, research, analysis, writing, presentation work, or other tasks that I personally completed.]
+My individual contribution focused particularly on **Project 2 — IT Project Methodology Analysis**.
 
-This section is included to distinguish my individual contribution from the work completed collaboratively by the wider group.
+My contribution included analysing:
+
+* Why the Spiral Methodology was selected
+* Risk management considerations
+* Changing requirements
+* Continuous user involvement and feedback
+* Iterative testing and software quality
+* Stakeholder and technical collaboration
+* Privacy and ethical risks
+* Leadership styles
+* Leadership qualities required for the project
+
+The repository therefore distinguishes between the overall group project work and the areas that I personally contributed to.
+
+---
 
 ## Skills Demonstrated
 
-* IT project management
-* Project management methodology analysis
-* Risk management
-* Leadership and teamwork
-* Research and analysis
-* Academic report writing
-* Collaboration
+* IT Project Management
+* Project Management Methodology Analysis
+* Risk Management
+* Leadership Analysis
+* Stakeholder Engagement
+* Requirements Analysis
+* Research and Critical Thinking
+* Team Collaboration
 * Communication
-* Critical thinking
-* Project planning
+* Problem-Solving
+* Academic Project Documentation
 
-## Project Outcome
+---
 
-The project provided practical academic experience in analysing how project management methodologies, risk considerations, leadership, and teamwork can influence IT project delivery.
+## Key Learning
 
-It also strengthened my understanding of the relationship between project planning, people, processes, risks, and successful project outcomes.
+These projects helped develop my understanding of how project methodology, risk management, leadership, stakeholder collaboration, and iterative development can influence IT project delivery.
+
+The work also demonstrated the importance of selecting a project management methodology that fits the project's risks, requirements, stakeholders, and development environment.
+
+---
 
 ## Portfolio Purpose
 
-This repository forms part of my academic IT portfolio and demonstrates my developing skills in project management, business analysis, data analysis, research, and collaborative project work.
+This repository forms part of my academic IT portfolio and demonstrates my developing skills in:
+
+**Project Management | Business Analysis | Data Analysis | Requirements Analysis | Risk Management | Team Collaboration**
+
+---
 
 ## Disclaimer
 
-This is an academic university group project. It does not represent professional consulting, employment, or contract work completed for an external organisation.
+This is academic university project work completed as part of group projects. It does not represent professional employment, consulting, or contract work completed for an external organisation.
+
+The work is presented on GitHub as a student portfolio example. Group work and my individual contribution are identified separately to accurately represent my involvement.
 
 **Author:** Elizabeth Sumbaei
 **GitHub:** [lizsumbaei](https://github.com/lizsumbaei)
