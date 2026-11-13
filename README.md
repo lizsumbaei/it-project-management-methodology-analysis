@@ -38,7 +38,6 @@ The proposed project aimed to:
 * Provide useful notifications
 * Make wellbeing information and support easier to access
 * Help students find appropriate support and guidance
-* Provide a central place for students to access information and assistance
 
 ---
 
@@ -72,14 +71,6 @@ The Spiral Methodology was analysed as a risk-focused and iterative approach.
 
 Potential risks can be identified and addressed early before significant time and resources are committed.
 
-Examples considered included:
-
-* Inaccurate data collection
-* Software defects
-* Privacy concerns
-* Compatibility issues
-* Security and data-related risks
-
 ### Changing Requirements
 
 The approach allows requirements to be refined as the project's needs become clearer.
@@ -92,30 +83,13 @@ Early versions and prototypes can be tested and reviewed so that user and stakeh
 
 Problems identified during one development cycle can be corrected and tested again before progressing to the next cycle.
 
-Testing considerations included:
-
-* Functional testing
-* Usability testing
-* Compatibility testing
-* Data validation
-* Security and privacy testing
-
 ### Stakeholder Collaboration
 
-The project considered collaboration between different professionals and stakeholders, including software developers, researchers, project managers, and other stakeholders.
-
-This collaboration supports discussion of project progress, risks, priorities, and technical considerations.
+Different professionals and stakeholders can contribute their perspectives when reviewing progress, risks, priorities, and technical considerations.
 
 ### Privacy and Ethics
 
-Privacy, security, data accuracy, and ethical considerations were identified as important risks that should be considered throughout the project.
-
-Possible controls included:
-
-* Access controls
-* Encryption
-* Data minimisation
-* Secure data storage
+Privacy, security, data accuracy, and ethical considerations can be assessed throughout the project.
 
 ---
 
@@ -131,7 +105,7 @@ The second project also examined leadership requirements for working effectively
 
 **Transformational Leadership**
 
-Important leadership qualities identified in the project included:
+Important leadership qualities identified included:
 
 * Risk management and analytical thinking
 * Communication and stakeholder engagement
@@ -141,7 +115,41 @@ Important leadership qualities identified in the project included:
 * Planning and resource management
 * Commitment to quality, ethics, and accountability
 
-These qualities support effective communication, decision-making, collaboration, and project delivery.
+---
+
+## Project Artefacts
+
+The following artefacts demonstrate the planning and project-management work completed for the Campus Connect project.
+
+### Work Breakdown Structure
+
+The Work Breakdown Structure shows how the proposed project was divided into major work areas and activities.
+
+![Campus Connect Work Breakdown Structure](campus-connect-wbs.png)
+
+### Scope Diagram
+
+The scope diagram identifies the proposed features included within the project and the features that were outside the project scope.
+
+![Campus Connect Scope Diagram](campus-connect-scope-diagram.png)
+
+### Network Diagram
+
+The network diagram demonstrates project activities and their dependencies.
+
+![Campus Connect Network Diagram](campus-connect-network-diagram.png)
+
+### Critical Path
+
+The critical-path analysis demonstrates how project activities were sequenced and identifies activities that affected the overall project schedule.
+
+![Campus Connect Critical Path](campus-connect-critical-path.png)
+
+### Jira Project Board
+
+The Jira evidence demonstrates the use of project-management tools for task tracking, priorities, status monitoring, and project progress.
+
+![Campus Connect Jira Project Board](campus-connect-jira-project-board.png)
 
 ---
 
@@ -163,23 +171,28 @@ My contribution included analysing:
 * Leadership styles
 * Leadership qualities required for the project
 
-The repository therefore distinguishes between the overall group project work and the areas that I personally contributed to.
+The repository distinguishes between the overall group project work and the areas that I personally contributed to.
 
 ---
 
 ## Skills Demonstrated
 
 * IT Project Management
+* Project Planning
 * Project Management Methodology Analysis
+* Scope Management
+* Schedule Management
+* Resource Management
 * Risk Management
-* Leadership Analysis
-* Stakeholder Engagement
+* Stakeholder Management
 * Requirements Analysis
+* RACI Analysis
+* Jira Project Tracking
+* Leadership Analysis
 * Research and Critical Thinking
 * Team Collaboration
 * Communication
 * Problem-Solving
-* Academic Project Documentation
 
 ---
 
@@ -201,9 +214,9 @@ This repository forms part of my academic IT portfolio and demonstrates my devel
 
 ## Disclaimer
 
-This is academic university project work completed as part of group projects. It does not represent professional employment, consulting, or contract work completed for an external organisation.
+This is academic university group project work. It does not represent professional employment, consulting, or contract work completed for an external organisation.
 
-The work is presented on GitHub as a student portfolio example. Group work and my individual contribution are identified separately to accurately represent my involvement.
+The project is presented on GitHub as a student portfolio example. Group work and my individual contribution are identified separately to accurately represent my involvement.
 
 **Author:** Elizabeth Sumbaei
 **GitHub:** [lizsumbaei](https://github.com/lizsumbaei)
